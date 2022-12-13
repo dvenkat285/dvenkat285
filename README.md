@@ -1,4 +1,4 @@
-- 👋 Hi, I’m (venky) @dvenkat285
+- 👋 Hi, I’m (venky) Venkatesh DK
 - 👀 I’m interested in ...Business/Data Analysis
 - 🌱 I’m currently learning ...indepth ELK Stack
 - 💞️ I’m looking to collaborate on ...Data analysis
