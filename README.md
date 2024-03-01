@@ -1,6 +1,6 @@
 - 👋 Hi, I’m (venky) Venkatesh DK
-- 👀 I’m interested in ...Business/Data Analysis
-- 🌱 I’m currently learning ...indepth ELK Stack
+- 👀 I’m interested in ...web application development/Business/Data Analysis
+- 🌱 I’m currently learning ...indepth C#.Net, javascript, ELK Stack
 - 💞️ I’m looking to collaborate on ...Data analysis
 - 📫 How to reach me ...dvenkat.285@gmail.com
 - expert in Ms Excel, Power query, Power BI, tableau, SQL & Elasticsearch Kibana Logstash
